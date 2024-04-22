@@ -1,0 +1,19 @@
+.navbar-container img {
+  width: 2em;
+}
+
+.navbar-container a {
+  text-decoration: none;
+}
+
+main img {
+  width: 15em;
+}
+
+.finder-container select {
+  width: 15em;
+}
+
+.finder-container button {
+  width: fit-content;
+}
